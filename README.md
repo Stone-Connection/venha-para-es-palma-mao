@@ -1,4 +1,7 @@
-# Teste para o projeto ES na Palma da mão
+# Teste para o time Stone Connection
+### Originalmente criado como seleção para o ES na Palma da Mão (Prodest)
+
+## Desafio
 
 O desafio é desenvolver um programa que permita realizar as seguintes buscas: 
 1. Listar os **órgãos, códigos e editais dos concursos públicos** que encaixam no perfil do candidato tomando como base o **CPF** do candidato ; 
@@ -28,8 +31,7 @@ Para enviar o resultado, basta realiazar um **Fork** deste repositório e **abra
 
 Por fim, o candidato deve atualizar o Readme.md com as seguintes informações: 
 1. Documentação da solução;
-2. Lista dos diferenciais implementados
-3. Link do projeto no [WakaTime](https://wakatime.com/). Veja um [exemplo](https://wakatime.com/@b142ebdf-4d65-4b92-bc14-567db7b72151/projects/zrxbwdmhtu?start=2018-01-25&end=2018-01-31).  
+2. Lista dos diferenciais implementados.
 
 ## Avaliação
 
@@ -52,6 +54,7 @@ O candidato pode aumentar a sua pontuação na seleção implementando um ou mai
 | Item  | Pontos Ganhos | 
 |---|---|
 | Criar um [serviço](https://martinfowler.com/articles/microservices.html) com o problema |  30  |
+| Hospedar a solução na web (pode usar qualquer serviço gratuito, como Heroku) | 30 |
 | Utilizar banco de dados| 30|
 | Implementar Clean Code |  20  |
 | Implementar o padrão de programação da tecnologia escolhida |  20  |
@@ -61,7 +64,7 @@ O candidato pode aumentar a sua pontuação na seleção implementando um ou mai
 | Implementar integração com [Travis](https://travis-ci.org/)  |  10  |
 | Implementar integração com Travis + SonarQube |  10  |
 | Implementar usando Docker| 5|
-| Total| 170|
+| Total| 200|
 
 A nota final do candidato será acrescido dos pontos referente ao item implementado corretamente.
 
